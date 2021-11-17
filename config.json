@@ -1,13 +1,13 @@
 {	
 	"prefix": "multi", 
-	"defaultSessionName": "kurrxd", 
+	"defaultSessionName": "LELEGANS", 
 	"zeksKey": "CpGSLymOQy9KfTKgQZr9eDSYqqR",
 	"autoRead": true,
 	"self": false, 
-	"maxLimit": 30,
-	"ownerList": ["6287717710182@s.whatsapp.net"],
+	"maxLimit": 10,
+	"ownerList": ["6283893561082@s.whatsapp.net"],
 	"apiUrl": "https://api.zeks.me",
     "imgUrl": "https://i.postimg.cc/XNFmqpr1/76271a67a3e6162e0d0f80b1bc1d17f4.jpg",
 	"pack": "Yang Nyolong Nak Babi",
-	"author": "K U V I A N T I B o t"
+	"author": "ZEUS PROGRAMMER"
 }
