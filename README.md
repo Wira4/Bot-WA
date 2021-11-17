@@ -1,2 +1,6 @@
 # SC-BOT-WA
-Subscribe Channel KUVIANTIINDONESIA
+Subscribe Channel Lele Gans
+
+
+
+Tapi boong wkwk
